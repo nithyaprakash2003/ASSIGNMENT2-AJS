@@ -1,4 +1,5 @@
-## Assignment Instructions
+# Assignment Instructions
+
 ## General Idea
 The idea of this assignment is to create a "check off" shopping List application.
 
@@ -14,4 +15,4 @@ The "Already Bought" list should initially be empty and display a message "Nothi
 
 Once the user "buys" every item on the "To Buy" list, i.e., clicks on the "Bought" button for every item in the "To Buy" list, instead of the empty "To Buy" list, display the message "Everything is bought!"
 
-https://igogra.github.io/Single-Page-Web-Applications-with-AngularJS/Module2/
+[See my solution web page](https://igogra.github.io/Single-Page-Web-Applications-with-AngularJS/Module2/)
